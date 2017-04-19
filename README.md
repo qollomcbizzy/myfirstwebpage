@@ -1,4 +1,4 @@
-![freeCodeCamp Social Banner]( https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
+![freeCodeCamp Social Banner]( https://github.com/qollomcbizzy/myfirstwebpage/image/index.jpeg)
 
 
 
