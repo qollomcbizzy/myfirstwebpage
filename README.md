@@ -1,5 +1,4 @@
-![freeCodeCamp Social Banner]( https://github.com/qollomcbizzy/myfirstwebpage/image/index.jpeg)
-
+![freeCodeCamp Social Banner](https://raw.githubusercontent.com/qollomcbizzy/myfirstwebpage/master/image/index.jpeg)
 
 
 Welcome to freeCodeCamp's open source codebase and curriculum!
