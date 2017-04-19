@@ -62,7 +62,7 @@ Install
 1. Extract the files to C:\Documents and Settings\My Documents\My Games\Oblivion\Saves\
 2. Start Oblivion, select Load, and choose the SaveGame.
 
-Uninstall
+### Uninstall
 =========
 Delete the .ess file from C:\Documents and Settings\My Documents\My Games\Oblivion\Saves\
 
