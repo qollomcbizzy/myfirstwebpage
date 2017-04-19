@@ -1,4 +1,4 @@
-![freeCodeCamp Social Banner]( myfirstwebpage/image/index.jpeg )
+![freeCodeCamp Social Banner]( https://github.com/qollomcbizzy/myfirstwebpage/image/index.jpeg )
 
 
 
