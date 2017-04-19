@@ -1,3 +1,6 @@
+![freeCodeCamp Social Banner](https://github.com/qollomcbizzy/myfirstwebpage/tree/master/image)
+
+
 Welcome to freeCodeCamp's open source codebase and curriculum!
 =======================
 You start by working through our self-paced, browser-based full stack JavaScript curriculum.
